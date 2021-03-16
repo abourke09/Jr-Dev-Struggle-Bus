@@ -1,6 +1,6 @@
 // Junior Dev Struggle Bus MeetUp
 // Monday, March 15
-// Lead by Kirk
+// Lead by Kirk Hilse
 
 // 1. Sort a string of characters alphabetically
 
